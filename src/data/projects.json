@@ -2,25 +2,17 @@
   {
     "title": "FLYINGO",
     "imageSrc": "projects/project.png",
-    "description": "This is a project  made using React, which is an online flight booking website.",
-    "skills": ["React", "Css"],
-    "demo": "",
-    "source": "https://www.github.com"
+    "description": "This is a full-stack MERN project, which is an online flight booking website.",
+    "skills": ["React", "MongoDb","Node.js","Express","Css"],
+    
+    "source": "https://flyingo-booking-app.vercel.app/"
   },
   {
     "title": "PixScout",
     "imageSrc": "projects/project.png",
-    "description": " Easily search for high-quality images based on keywords.",
-    "skills": ["Html", "Css", "Javascript", "jQuery"],
-    "demo": "",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "DashBoard",
-    "imageSrc": "projects/project.png",
-    "description": "A fully-functional dashboard rendering the properties of CRUD",
-    "skills": ["React", "Express", "Node"],
-    "demo": "",
+    "description": " A user-friendly image search application for high-quality images based on keyword to browse .",
+    "skills": ["Html", "Css", "Javascript"],
+    
     "source": "https://www.github.com"
   }
 ]
