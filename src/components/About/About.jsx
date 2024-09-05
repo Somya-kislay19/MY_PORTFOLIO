@@ -17,30 +17,47 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3><b>Frontend Developer</b></h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+               
+              I'm a frontend developer with experience with languages like 
+              <b>Javascript,
+              React,Typescript & Figma.</b>
+              Currently interning as a developer at <b>Telus International,Noida,India</b>
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+              <h3><b>Programming Excellence</b> </h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+              Beyond the frontend, I delve into the world of programming
+               languages like <b>Java & Python, </b>constantly expanding my skills to 
+               tackle new challenges head-on. 
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3><b>Data Analyst</b></h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+              I have a foundational understanding of data 
+              analytics principles and techniques.
+               I am proficient in using MySQL, 
+              Excel, and Power BI for data management and visualization.
+            
+              </p>
+            </div>
+          </li>
+          <li className={styles.aboutItem}>
+            <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
+            <div className={styles.aboutItemText}>
+              <h3><b>Backend Developer</b> </h3>
+              <p>
+            Not expert but a foundational knowledge of backend frameworks
+                like <b>MySql, MongoDb & Express.js </b> 
               </p>
             </div>
           </li>

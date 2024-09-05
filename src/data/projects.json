@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
+    "title": "FLYINGO",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "description": "This is a project  made using React, which is an online flight booking website.",
+    "skills": ["React", "Css"],
+    "demo": "",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
+    "title": "PixScout",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
+    "description": " Easily search for high-quality images based on keywords.",
+    "skills": ["Html", "Css", "Javascript", "jQuery"],
+    "demo": "",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project C",
+    "title": "DashBoard",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "A fully-functional dashboard rendering the properties of CRUD",
     "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "demo": "",
     "source": "https://www.github.com"
   }
 ]

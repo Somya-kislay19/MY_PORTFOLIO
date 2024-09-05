@@ -10,6 +10,9 @@
   margin-left: 10%;
   margin-right: 10%;
 }
+.pi{
+  font-size: 99px;
+}
 
 .content {
   display: flex;
@@ -20,7 +23,7 @@
 }
 
 .title {
-  font-size: 72px;
+  font-size: 80px;
   font-weight: 900;
   margin-bottom: 33px;
   font-family: var(--font-roboto);
@@ -29,8 +32,8 @@
     rgba(255, 255, 255, 1) 70%,
     rgba(255, 255, 255, 0) 120%
   );
-  -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
+  padding: 1%;
 }
 
 .description {
