@@ -4,15 +4,15 @@
     "imageSrc": "projects/project.png",
     "description": "This is a full-stack MERN project, which is an online flight booking website.",
     "skills": ["React", "MongoDb","Node.js","Express","Css"],
-    
-    "source": "https://flyingo-booking-app.vercel.app/"
+    "demo": "",
+    "source": "https://www.github.com"
   },
   {
     "title": "PixScout",
     "imageSrc": "projects/project.png",
-    "description": " A user-friendly image search application for high-quality images based on keyword to browse .",
-    "skills": ["Html", "Css", "Javascript"],
-    
+    "description": " Easily search for high-quality images based on keywords.",
+    "skills": ["Html", "Css", "Javascript", "jQuery"],
+    "demo": "",
     "source": "https://www.github.com"
   }
 ]
